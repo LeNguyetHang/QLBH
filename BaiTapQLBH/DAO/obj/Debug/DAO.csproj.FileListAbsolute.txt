@@ -1,0 +1,15 @@
+d:\visual studio 2010\Projects\BaiTapQLBH\bin\Debug\DAO.dll
+d:\visual studio 2010\Projects\BaiTapQLBH\bin\Debug\DAO.pdb
+d:\visual studio 2010\Projects\BaiTapQLBH\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+d:\visual studio 2010\Projects\BaiTapQLBH\DAO\obj\Debug\DAO.dll
+d:\visual studio 2010\Projects\BaiTapQLBH\DAO\obj\Debug\DAO.pdb
+C:\Users\Hiep\Desktop\nothing in there\QLBH\sent\BaiTapQLBH\bin\Debug\DAO.dll
+C:\Users\Hiep\Desktop\nothing in there\QLBH\sent\BaiTapQLBH\bin\Debug\DAO.pdb
+C:\Users\Hiep\Desktop\nothing in there\QLBH\sent\BaiTapQLBH\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\Hiep\Desktop\nothing in there\QLBH\sent\BaiTapQLBH\DAO\obj\Debug\DAO.dll
+C:\Users\Hiep\Desktop\nothing in there\QLBH\sent\BaiTapQLBH\DAO\obj\Debug\DAO.pdb
+C:\Users\Admin\Downloads\BaiTapQLBH\bin\Debug\DAO.dll
+C:\Users\Admin\Downloads\BaiTapQLBH\bin\Debug\DAO.pdb
+C:\Users\Admin\Downloads\BaiTapQLBH\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\BaiTapQLBH\DAO\obj\Debug\DAO.dll
+C:\Users\Admin\Downloads\BaiTapQLBH\DAO\obj\Debug\DAO.pdb
